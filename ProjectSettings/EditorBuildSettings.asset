@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Start.unity
+    guid: 2e11c13cc809fdb438551f11e8a8729e
+  - enabled: 1
+    path: Assets/Scenes/Models.unity
+    guid: 420a23abf1e230645bf4fe1244b70312
+  - enabled: 0
+    path: Assets/Scenes/Pharaoh.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scenes/Amenhotep.unity
+    guid: 0cd2d2aacfd8ca34b90ea96f2b5fe7c8
+  - enabled: 0
+    path: Assets/Scenes/Man.unity
+    guid: 268df64bf8b78f94393919e237bbb6f4
+  - enabled: 1
+    path: Assets/Scenes/Koki.unity
+    guid: 1e2158435cc47bc43977c0077b60feb5
+  - enabled: 0
+    path: Assets/Scenes/Hounds.unity
+    guid: 912fc91c56a72c749a836567ecd5e127
+  - enabled: 0
+    path: Assets/Scenes/Budha.unity
+    guid: 056ed6f34f810234ca355ad45de8d8d7
+  - enabled: 0
+    path: Assets/Scenes/Head.unity
+    guid: 53dbe0f76660d134991d3136e3157a46
+  - enabled: 0
+    path: Assets/Scenes/David.unity
+    guid: e77af6dde28ead9448cc59bf34895143
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 92798280244494c408f090248169194f
+  - enabled: 0
+    path: Assets/Scenes/Plane.unity
+    guid: 7838203b1406be4478a400c35f178272
+  - enabled: 1
+    path: Assets/Scenes/Horus.unity
+    guid: 4196d6dd73388854daa46e4aa7c37eeb
+  - enabled: 1
+    path: Assets/Scenes/Tutankhamun.unity
+    guid: c6947a9b1d74dae4a8f27a310b0b4789
+  - enabled: 1
+    path: Assets/Scenes/Doggies.unity
+    guid: 5f589ac6df22d004a9979e29ccc69693
+  - enabled: 1
+    path: Assets/Scenes/Jerome.unity
+    guid: bdafab8de7cd96b4594ee7263e7250fc
+  - enabled: 1
+    path: Assets/Scenes/Apollo.unity
+    guid: d53c675540b919e49b7041cf8c899019
+  - enabled: 1
+    path: Assets/Scenes/Neptune.unity
+    guid: 36b664ffb34bf7d4c886b252db8817da
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: d0de0d70d3bdadb4382f1c5c3f44a756, type: 2}
+    com.unity.addressableassets: {fileID: 11400000, guid: fa36d0690769a1f41be58274861d25c9, type: 2}
+    com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 2feb6bb2048c43548ab11392a1cd8481, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 118faa26153afdb42928e1482f3d83b3, type: 2}

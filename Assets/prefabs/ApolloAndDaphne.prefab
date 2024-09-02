@@ -1,0 +1,96 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &8019415065911198557
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8478530518714126979}
+  m_Layer: 0
+  m_Name: ApolloAndDaphne
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8478530518714126979
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8019415065911198557}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 7410859918891562464}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!1001 &6436483487606467972
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 8478530518714126979}
+    m_Modifications:
+    - target: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -7
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -24
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 7.225937e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.8726655
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -2.0578268e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0.48831853
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -121.54
+      objectReference: {fileID: 0}
+    - target: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 5386672001046191900, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+      propertyPath: m_Name
+      value: 1992.230_apollo_and_daphne
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+--- !u!4 &7410859918891562464 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 4578562636740122724, guid: 6d8fd0dcbb06beb43858341b6bfe72eb, type: 3}
+  m_PrefabInstance: {fileID: 6436483487606467972}
+  m_PrefabAsset: {fileID: 0}

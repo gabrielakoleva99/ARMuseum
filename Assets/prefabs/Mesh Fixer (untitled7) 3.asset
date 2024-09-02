@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a27227a29b88d747abef0e7e5fc889c, type: 3}
+  m_Name: Mesh Fixer (untitled7) 3
+  m_EditorClassIdentifier: 
+  source: {fileID: 0}
+  mesh: {fileID: 0}
+  meshes:
+  - Source: {fileID: -2432090755550338912, guid: 73c46a1e1b980734094076894662d9da, type: 3}
+    Output: {fileID: 0}
+  coord: 0
+  generateUV: 0
+  angleError: 0.08
+  areaError: 0.15
+  hardAngle: 88
+  packMargin: 0.00390625
+  fixOverflow: 1
+  fixSeams: 0
+  border: 0.005

@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &2981974723440738914
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -5609321221556402741, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_Name
+      value: 1946.82_saint_jerome_and_the_lion
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 15
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -6.3
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -17.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 19.6
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: -2.0999197e-17
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0.09457198
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 2.2104941e-16
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0.995518
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: -180
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -169.147
+      objectReference: {fileID: 0}
+    - target: {fileID: 5146681718063874739, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 9199261849990390558, guid: 9c94802ca4de14e4fb4d3a7594e1999a, type: 3}

@@ -1,0 +1,34 @@
+{
+    "name": "ARInputAction",
+    "maps": [
+        {
+            "name": "TouchControl",
+            "id": "d68fd082-d7c1-41ce-92b7-e574f3e269b4",
+            "actions": [
+                {
+                    "name": "PrimaryTouch",
+                    "type": "Value",
+                    "id": "b5b5c4d9-5ff0-44b2-99ca-9f830479d55a",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "83fe9370-64d8-4569-9ecb-59e9fb3bd369",
+                    "path": "<Touchscreen>/primaryTouch/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PrimaryTouch",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
