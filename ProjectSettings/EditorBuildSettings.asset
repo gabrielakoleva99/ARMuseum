@@ -23,9 +23,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Koki.unity
     guid: 1e2158435cc47bc43977c0077b60feb5
-  - enabled: 0
+  - enabled: 1
     path: Assets/Scenes/Hounds.unity
-    guid: 912fc91c56a72c749a836567ecd5e127
+    guid: 5f589ac6df22d004a9979e29ccc69693
   - enabled: 0
     path: Assets/Scenes/Budha.unity
     guid: 056ed6f34f810234ca355ad45de8d8d7
