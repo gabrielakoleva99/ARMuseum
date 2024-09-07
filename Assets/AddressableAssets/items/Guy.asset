@@ -14,3 +14,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemPrefab: {fileID: 1088039259809098012, guid: 71b607b3cfeb52747aae8a78235854a9, type: 3}
   itemImage: {fileID: 21300000, guid: 445dc469139fe92468e12d93401a8404, type: 3}
+  infoPanel: {fileID: 53939744115985761, guid: 995af950c243d4945b9fae938720bdfa, type: 3}

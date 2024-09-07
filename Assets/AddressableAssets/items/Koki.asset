@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d9b9f972e24f2a49a81afa0f1ebe087, type: 3}
+  m_Name: Koki
+  m_EditorClassIdentifier: 
+  itemPrefab: {fileID: 437732547143328950, guid: 95815a7b42aaab4429237a1339ec129a, type: 3}
+  itemImage: {fileID: 21300000, guid: 8258e81df018b1444abee4bf949f58a0, type: 3}
+  infoPanel: {fileID: 4538282150835605897, guid: 18dec4a79b4788042af04c6f375a751c, type: 3}
