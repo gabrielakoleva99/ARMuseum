@@ -189,10 +189,10 @@ PrefabInstance:
     - target: {fileID: -7635826562936255635, guid: 1e2aef3178f8dbe4d882df234c1da716, type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
-      objectReference: {fileID: -2840136634868304333, guid: 2e6802fb5467fa544a11ab2dc3725171, type: 3}
+      objectReference: {fileID: -2840136634868304333, guid: 80acb8d9ea55efc479d3de4f6cd4b350, type: 3}
     - target: {fileID: 919132149155446097, guid: 1e2aef3178f8dbe4d882df234c1da716, type: 3}
       propertyPath: m_Name
-      value: doggies2
+      value: hounds
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -1984,6 +1984,22 @@ PrefabInstance:
       propertyPath: isolateTarget
       value: 
       objectReference: {fileID: 1010620856}
+    - target: {fileID: 531219423503893995, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 531219423503893995, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 531219423503893995, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 531219423503893995, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1103012784606621509, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
       propertyPath: m_Alpha
       value: 0.5
@@ -1992,6 +2008,22 @@ PrefabInstance:
       propertyPath: isolateTarget
       value: 
       objectReference: {fileID: 1010620855}
+    - target: {fileID: 1103012784606621511, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1103012784606621511, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1103012784606621511, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1103012784606621511, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1251405854876412969, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
       propertyPath: m_Alpha
       value: 0.5
@@ -2044,6 +2076,22 @@ PrefabInstance:
       propertyPath: isolateTarget
       value: 
       objectReference: {fileID: 1010620857}
+    - target: {fileID: 2872830177314655563, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2872830177314655563, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchorMin.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2872830177314655563, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchoredPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 2872830177314655563, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
+      propertyPath: m_AnchoredPosition.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3601561084916412884, guid: fffc6bda17f398b4da835496becd1f1f, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

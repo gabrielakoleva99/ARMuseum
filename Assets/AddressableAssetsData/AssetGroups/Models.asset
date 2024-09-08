@@ -17,12 +17,6 @@ MonoBehaviour:
     m_SerializedData: []
   m_GUID: 3a885abeddfe7b440bf3f5b206655056
   m_SerializeEntries:
-  - m_GUID: 4612dd98dbb1c9d47b199440b07777a7
-    m_Address: Assets/Adressables/items/Neptun.asset
-    m_ReadOnly: 0
-    m_SerializedLabels:
-    - Sculptures
-    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 574bd66e8fcdb9f4bb5e4b1528d5654c
     m_Address: Assets/Adressables/items/Koki.asset
     m_ReadOnly: 0
